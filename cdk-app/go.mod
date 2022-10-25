@@ -10,6 +10,9 @@ require (
 
 require (
 	github.com/Masterminds/semver/v3 v3.1.1 // indirect
+	github.com/aws/aws-cdk-go/awscdkapigatewayv2alpha/v2 v2.47.0-alpha.0
+	github.com/aws/aws-cdk-go/awscdkapigatewayv2integrationsalpha/v2 v2.47.0-alpha.0
+	github.com/aws/aws-cdk-go/awscdklambdagoalpha/v2 v2.47.0-alpha.0
 	github.com/mattn/go-isatty v0.0.16 // indirect
 	github.com/yuin/goldmark v1.4.13 // indirect
 	golang.org/x/lint v0.0.0-20210508222113-6edffad5e616 // indirect
